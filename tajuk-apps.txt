@@ -1,0 +1,154 @@
+Apps Kehadiran Kelas Pelajar (m-Kedatangan)
+Apps Login Kehadiran Kakitangan (m-Login)
+Apps Kedatangan Pelajar Kolej (m-Hadir)
+Apps Paparan Kehadiran Pensyarah (m-Paparan)
+
+Apps Pinjaman Buku (m-Library)
+Apps Permohonan Tempahan Peralatan ICT dan Bilik (m-Peralatan)
+Apps Permohonan Lesen (m-Lesen)
+Apps Tempahan Bilik Mesyuarat (m-Bilik)
+Apps Tempahan Asrama (m-Asrama)
+Apps Keluar Masuk Kolej (m-Outin)
+Sistem Tempahan Padang Badminton (m-Sport)
+Apps Pengurusan Barangan Pos (m-Parcel)
+Apps Tempahan Bilik Hotel (m-Hotel)
+
+Apps Kutipan Yuran Ahli Kelab (m-Akaun)
+Apps Inventori (Jual dan Bekal)(m-Inventori)
+Apps Maklumat Ukuran Jahitan (m-Jahit)
+Apps Perkongsian Maklumat (m-Learn)
+Apps Pengurusan Pusat Tuisyen (m-Tuisyen)
+
+Apps Rekod Perubatan Kakitangan (m-Medical)
+Apps Pengurusan Klinik (m-Klinik)
+
+Apps Maklumat Muzium (m-Museum)
+Apps Permohonan Lawatan (m-JJCM)
+
+Apps Permohonan Tajuk Projek FYP (m-FYP)
+Apps Permohonan Kerja (m-jobs)
+Apps Rekod Surat Sekolah (m-SmartSchool)
+
+Apps Permohonan Cuti (m-Cuti)
+Apps Pengurusan Fail Dokumen & Perisian (m-Fail)
+Apps Rekod Keluar Masuk Surat (m-Surat)
+
+Apps Pengurusan Keselamatan Penduduk
+Apps Pengurusan Aduan (m-Aduan)
+Apps Aduan Kerosakan (m-Maintenance)
+
+Apps Pengurusan Acara BolaSepak
+Apps Kedai Online (m-Kedai)
+Apps Iklan Tanah & Rumah (m-Iklan)
+Apps Sewa Kereta (m-Rental)
+
+Tajuk Projek Tahun Akhir:
+Sumber: http://finalyearproject-kamal.blogspot.my/2008/09/tajuk-projek-tahun-akhir.html
+
+1. E-Office Web Community
+2. Performance Analysis of Routing Protocol to Save Energy in Wireless Sensor Network (WSN)
+3. Sistem Pengurusan Klinik Haiwan Peliharaan
+4. Face Age Classification Prototype System using OpenCV
+5. Performance Analysis of Networks Routing Protocols Proposed for Wireless Sensor Networks (WSNs)
+6. Computational Modelling of Toger Prawn Population: Research in Inland Fisheries Division, Department of Agriculture, Samarahan
+7. Clustering non-binary Chemistry Data using Fuzzy C-Means Method
+8. Lab Demonstrator Demonstration Software
+9. Final Year Project Management System
+10.EduGame: Explore, Play and Learn 123
+11.WEB-BASED HAIR SALON MANAGEMENT SYSTEM
+12.Packet Distribution Algorithm for Sensor Network in Multilane Network
+13.PARENT INTERACTIVE PORTAL
+14.MOBILE WEB APPLICATION FOR USER'S GUIDE IN UNIMAS
+15.Developing a simulation tool to detect an intrusion into a Wireless LAN
+16.Developing XML-based messaging systems manipulated and presented by using JAVA in computer networking environment
+17.Developing A Sensitive Analysis Tool for Decision Making
+18.Bluetooth Authentication using Virtual Private NEtwork (VPN)
+19.Online Registration Management System for Tun Ahmad Zaidi Resident College
+20.Bus Arrival Modelling
+21.Interactive Corporate Video Faculty of Computer Science and Information Technology
+22.MAPPING MASHUPS APPLICATION FOR CLINICS AND HEALTH CENTERS IN KUCHING CITY
+23.SE PORTAL
+24.The Traffic Modeling in Unimas Campus
+25.MobiChart - 3D Chart Visualize Using Mobile Phone
+26.A Biometrical based Students' Attendance System in PDA (Personal Digital Assisstant)
+27.Bluetooth Address Blocker
+28.UNIMAS WEBSITE THROUGH WAP - (UNIMAS MOBILE)
+29.Pembelian Buku Secara Online
+30.How zebra got their black stripes e-storybook
+31.GENERATOR TOOL FOR NATURAL LANGUAGE TO OO MODELING LANGUAGE
+32.Pharmacy Information System
+33.Improving User Interactivity via Interactive Virtual House
+34.SECURED ONLINE AUCTION SELLING SYSTEM
+35.Web-Based English Kelabit Phrase Book
+36.Room Reservation System (RRS)
+37.Online Book Sale Finder
+38.USED CAR ONLINE ADVERTISEMENT SYSTEM
+39.Integrated school database system
+40.E-Bario Website Maintenance System
+41.Mobile Learning using SMS or MMS
+42.Fault Management System for FCSIT labs
+43.Sarawak E-Map: A Personalized Map for Tourists
+44.Veterinary Management System
+45.An alternative outcome of search engine based on websites clustering
+46.Electronic Voting System
+47.Nucleotide Sequence Alignment
+48.Digital Staff Attendance Board System
+49.Interactive E-Hotel Reservation (web-based)
+50.Web-based Human Lungs Information System
+51.FCSIT COMMMUNICATION SYSTEM
+52.Smart Home Transmission Security via TCP/IP
+53.Client-Management Information System for Property Project
+54.Web-based Majoring Choosing Corner
+55.An embedded HTML summarizer of the search outcomes in search engine
+56.Hotel Management System
+57.Argumentation-based Negotiation Engine
+58.Web-Based Curriculum Management System
+59.Land Information Management System
+60.Car Park Management System
+61.ONLINE HOTEL BOOKING IN KAPIT, SARAWAK
+62.Customized Accounting System for Small Size Company
+63.Biodiversity Portal for Bats Specials
+64.Live with furniture that you customized
+65.ONLINE TCP/IP SIMULATION
+66.ONLINE ACCOMODATION RESERVATION SYSTEM WITH INTERACTIVE MAP
+67.e-Booking System Star Cineplex
+68.Job Seek Management System (Web Based)
+69.Packet Distribution for Sensor Network in Line Network
+70.A Distributed Data Analysis System using Case-Based Reasoning (CBR) Approach to Support Learning Representation for Appliances
+71.Pembayaran Yuran Menggunakan M-Dagang
+72.Patient Information System
+73.Sistem untuk menyelesaikan masalah persamaan pembezaan
+74.Matrix Operation Software
+75.Authentication Tool for Handy Drive
+76.Enhancement of password techniques by using steganograph
+77.Face Expression Recognition Prototype using OpenCV
+78.REKOD KEMAJUAN PROGRAM BACAAN PELAJAR
+79.Web-based Hardware Interfacing System for Control and Monitoring
+80.TECHSPAWN Network Sdn Bhd Online System
+81.Online Student Performance Evaluation System
+82.Solution to Roof Gutter overflow - modeling method
+83.MOBILE BASED PATIENT APPOINTMENT SYSTEM (MBPA)
+
+
+1 Air Asia E-Commerce Ticketing Sytems //boleh gak buat untuk tiket bas
+2 Tesco Online Shopping Cart Systems
+3 Student Bluetooth Mobile Chatting Systems
+4 NTV7 Multimedia On Demand Information Systems
+5 Wireless Internet PosLaju Tracking Packaging Systems
+6 Hotel Seri Malaysia Resort Reservation Systems
+7 Mobile Application for LRT/Comuter Purchasing Tickets
+8 Smart Clinic Systems
+9 Photo Album Management Systems
+10 Pet Registration & Visitation Systems
+11 Hotel Booking Systems
+12 Insurance Management Systems
+13 Library Tracking Book Information Systems
+
+Cth Proposal Projek Tahun Akhir
+
+MPP Election System (MPPES)
+ONLINE TOLL PAYMENT SYSTEM (OTOPS)
+Restaurant Service System Using PDA
+Sistem Kedatangan Pelajar
+Sistem Surat Menyurat
+Smart Mobile Hostel Reservation
