@@ -23,10 +23,8 @@ Belum ada idea mahu tulis.
 #Changelog
 10 Disember 2015 - Asyik berubah2 hari ini
 
-
 #Kredit
-*[Jekyll](https://jekyllrb.com/)
-*[JREAM](https://github.com/JREAM)
+* ([JREAM])
 
 #Hubungi
 * [![](https://cdnjs.cloudflare.com/ajax/libs/topcoat-icons/0.1.0/svg/facebook.svg)][fa-facebook] amin007.ledang
@@ -34,6 +32,7 @@ Belum ada idea mahu tulis.
  [![](https://cdnjs.cloudflare.com/ajax/libs/topcoat-icons/0.1.0/svg/twitter.svg)][fa-twitter] 
 * [![](https://cdnjs.cloudflare.com/ajax/libs/topcoat-icons/0.1.0/svg/googleplus.svg)][fa-google-plus] abdulmuhaiminabdulghaniamin007ledang
 * [![](https://cdnjs.cloudflare.com/ajax/libs/topcoat-icons/0.1.0/svg/github.svg)][fa-github] amin007_ledang
+* [![](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-linkedin.svg)][fa-linkedin] xxx
 * [![](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-instagram.svg)][fa-instagram] aminledang
 * [![](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-skype.svg)][fa-skype] amin800507
 * [![](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-youtube.svg)][fa-youtube] user/abdmuhaimin
@@ -46,3 +45,4 @@ Belum ada idea mahu tulis.
 [fa-instagram]: http://instagram.com/aminledang
 [fa-skype]: http://skype.com/amin800507
 [fa-youtube]: http://youtube.com/user/abdmuhaimin
+[JREAM]: https://github.com/JREAM
